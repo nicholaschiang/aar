@@ -72,9 +72,11 @@ as it relates to music generation.
     music through the analysis of user created *BeatBoxing*.
   - Describes how the individual *BeatBoxing* sounds can be automatically
     identified and contributes a method of tempo extraction.
+- [MySong: Automatic Accompaniment Generation for Vocal
+  Melodies](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/mysongchi2008.pdf)
 - [Automatic Music Generating Method and
   Device](https://patentimages.storage.googleapis.com/d5/f7/de/e87de2c3729421/US6506969.pdf)
 - [Apparatus for Automatically Composing Music
   Piece](https://patentimages.storage.googleapis.com/1e/7e/12/f97c11fdcb08b1/US4399731.pdf)
 - [Interactive Music Composition and Performance
-  System](https://patentimages.storage.googleapis.com/8b/03/70/5aacca6472b19c/US4526078.pdf)
+  System](https://patentimages.storage.googleapis.com/9b/03/70/5aacca6472b19c/US4526078.pdf)
