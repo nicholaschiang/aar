@@ -63,6 +63,14 @@ as it relates to music generation.
     [repository](https://github.com/salu133445/bmusegan) and on this
     [website](https://salu133445.github.io/bmusegan/).
 - [Magenta](https://github.com/tensorflow/magenta)
+  - Tensorflow library for creating art and music. Relevant music models
+    include:
+    - [**MelodyRNN**](https://github.com/tensorflow/magenta/tree/master/magenta/models/melody_rnn) -
+      you give it a NoteSequence, and it continues it in the style of your original NoteSequence.
+    - [**MusicVAE**](https://github.com/tensorflow/magenta/tree/master/magenta/models/music_vae) -
+      generates brand new NoteSequences or interpolates between two sequences.
+    - [**Onsets and Frames**](https://github.com/tensorflow/magenta/tree/master/magenta/models/onsets_frames_transcription) -
+      transcribes piano audio
   - Magenta is a research project exploring the role of machine learning in the
     process of creating art and music. Primarily this involves developing new
     deep learning and reinforcement learning algorithms for generating songs,
@@ -74,6 +82,9 @@ as it relates to music generation.
     and release our models and tools in open source on this GitHub. If you’d
     like to learn more about Magenta, check out our blog, where we post
     technical details. You can also join our discussion group.
+- [Torchaudio](https://github.com/pytorch/audio)
+  - PyTorch library that makes processing and working with audio signals in
+    machine learning manageable.
 
 #### Datasets
 
