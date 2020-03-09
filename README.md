@@ -85,6 +85,8 @@ as it relates to music generation.
 - [Torchaudio](https://github.com/pytorch/audio)
   - PyTorch library that makes processing and working with audio signals in
     machine learning manageable.
+- [Genmusic Demo List](https://github.com/affige/genmusic_demo_list)
+  - List of the URLs of various interactive automatic music generation demos.
 
 #### Datasets
 
