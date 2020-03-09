@@ -139,6 +139,11 @@ as it relates to music generation.
     identified and contributes a method of tempo extraction.
 - [MySong: Automatic Accompaniment Generation for Vocal
   Melodies](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/mysongchi2008.pdf)
+- [Text-based LSTM Networks for Automatic Music
+  Composition](https://arxiv.org/pdf/1604.05358.pdf)
+
+#### Patents
+
 - [Automatic Music Generating Method and
   Device](https://patentimages.storage.googleapis.com/d5/f7/de/e87de2c3729421/US6506969.pdf)
 - [Apparatus for Automatically Composing Music
